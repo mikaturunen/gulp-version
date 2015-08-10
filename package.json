@@ -1,0 +1,38 @@
+{
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  },
+  "dependencies": {
+    "gulp-util": "^3.0.6",
+    "through2": "^2.0.0"
+  },
+  "name": "gulp-version",
+  "description": "Gulp plugin: gulp-version. Unifies all possible fields of package.json and bower.json.",
+  "version": "0.0.1",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikaturunen/gulp-version.git"
+  },
+  "keywords": [
+    "gulpplugin",
+    "gulp-version",
+    "version",
+    "bump",
+    "unify",
+    "description",
+    "json"
+  ],
+  "author": "Mika Turunen <mika.turunen@ymail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikaturunen/gulp-version/issues"
+  },
+  "homepage": "https://github.com/mikaturunen/gulp-version#readme"
+}
