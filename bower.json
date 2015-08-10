@@ -1,0 +1,28 @@
+{
+  "name": "gulp-version",
+  "version": "0.0.1",
+  "homepage": "https://github.com/mikaturunen/gulp-version",
+  "authors": [
+    "Mika Turunen <mika.turunen@ymail.com>"
+  ],
+  "description": "test",
+  "main": "gulpfile.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "gulpplugin",
+    "gulp",
+    "gulp-version",
+    "version",
+    "unify"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
